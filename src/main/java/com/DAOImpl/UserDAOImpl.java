@@ -8,6 +8,7 @@ import org.springframework.stereotype.Repository;
 import com.DAO.UserDAO;
 import com.model.User;
 
+
 @Repository
 public class UserDAOImpl implements UserDAO
 {

@@ -29,6 +29,7 @@ public class CategoryDAOImpl implements CategoryDAO
 		
 	}
 	public List<Category> retrieve()
+	
 	{
 		Session session=sessionFactory.openSession();
 		session.beginTransaction();

@@ -11,6 +11,7 @@ import org.springframework.stereotype.Repository;
 import com.DAO.SupplierDAO;
 import com.model.Supplier;
 
+
 @Repository
 public class SupplierDAOImpl implements SupplierDAO
 {public SupplierDAOImpl(){}

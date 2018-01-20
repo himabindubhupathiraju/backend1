@@ -15,6 +15,7 @@ import org.springframework.stereotype.Component;
 @Entity
 
 
+
 public class Supplier implements Serializable
 {
 	

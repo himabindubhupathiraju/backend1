@@ -7,3 +7,4 @@ public interface SupplierDAO
 	public void insertSupplier(Supplier supplier);
 
 }
+

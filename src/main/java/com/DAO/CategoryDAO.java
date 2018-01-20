@@ -7,3 +7,4 @@ public interface CategoryDAO
 	public void insertCategory(Category category);
 
 }
+

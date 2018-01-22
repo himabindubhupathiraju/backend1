@@ -1,14 +1,21 @@
 package com.DAO;
 
+
+
 import com.model.User;
 
-public interface UserDAO
+
+
+public interface UserDAO 
+
 {
 
-		public void insertUser(User user);
+public boolean insertUser(User user);
 
 
 
-		
+public User getUserId(String email);
+
+	
+
 }
-
